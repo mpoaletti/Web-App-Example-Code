@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITAM webapp source code", "ITAM webapp source code.csproj", "{F3764937-449D-44F2-B65C-B2C83A879C7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3764937-449D-44F2-B65C-B2C83A879C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3764937-449D-44F2-B65C-B2C83A879C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3764937-449D-44F2-B65C-B2C83A879C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3764937-449D-44F2-B65C-B2C83A879C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35BEBD3B-DAB4-4615-AFF0-F440C28264EE}
+	EndGlobalSection
+EndGlobal
